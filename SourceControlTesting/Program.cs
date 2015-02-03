@@ -12,6 +12,9 @@ namespace SourceControlTesting
             string MasterVariable = "Added";
 
             Console.WriteLine("Added By Master");
+
+            Console.WriteLine("Updated By Master");
+
         }
     }
 }
