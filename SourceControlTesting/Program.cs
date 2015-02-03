@@ -19,6 +19,8 @@ namespace SourceControlTesting
 
             Console.WriteLine("branch develop updated");
 
+            Helper.ToChangeCase("kashif", Helper.CharCase.title);
+
         }
     }
 }
