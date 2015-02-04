@@ -21,6 +21,10 @@ namespace SourceControlTesting
 
             Console.WriteLine("testing rebase: changes by develop branch.");
 
+            Helper.ToChangeCase("kashif", Helper.CharCase.title);
+
+            Console.WriteLine("Testing rebase... changed by master");
+
         }
     }
 }
