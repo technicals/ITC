@@ -21,6 +21,8 @@ namespace SourceControlTesting
 
             Helper.ToChangeCase("kashif", Helper.CharCase.title);
 
+            Console.WriteLine("Testing rebase... changed by master");
+
         }
     }
 }
