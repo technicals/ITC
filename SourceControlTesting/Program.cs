@@ -19,6 +19,8 @@ namespace SourceControlTesting
 
             Console.WriteLine("branch develop updated");
 
+            Console.WriteLine("testing rebase: changes by develop branch.");
+
         }
     }
 }
